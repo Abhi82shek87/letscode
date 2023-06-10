@@ -7,7 +7,7 @@ int main(){
     int x=3,y=4;
     int c;
     c=sum(x,y);
-    cout<<c;
+    cout<<"the sum is "<<c;
   return 0;
 }
 
